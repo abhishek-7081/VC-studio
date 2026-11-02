@@ -62,6 +62,7 @@ async function loadFolderData() {
         folderStats.set(key, s);
       }
     }
+    
 
 
     for (const item of data) {
